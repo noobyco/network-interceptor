@@ -1,2 +1,4 @@
 # network-interceptor
-GUI tool for basic network interception.
+<hr>
+CLI tool for basic network interception.
+
